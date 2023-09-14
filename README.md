@@ -6,7 +6,7 @@
 * * *
 
 ## 課程筆記區
-+ 9/7 [Markdown]([http://example.com/](https://github.com/othree/markdown-syntax-zhtw/blob/master/syntax.md#html)https://github.com/othree/markdown-syntax-zhtw/blob/master/ "Markdown Syntax") 
++ 9/7 [Markdown](https://github.com/othree/markdown-syntax-zhtw/blob/master/ "Markdown Syntax") 
 * 9/14
 ## 作業連結區
 ## 專題連結區
