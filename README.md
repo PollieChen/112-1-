@@ -6,7 +6,9 @@
 * * *
 
 ## 課程筆記區
-+ 9/7 [Markdown](https://github.com/othree/markdown-syntax-zhtw/blob/master/ "Markdown Syntax") 
-* 9/14
+* 9/7 [Markdown](https://github.com/othree/markdown-syntax-zhtw/blob/master/ "Markdown Syntax") 
+
 ## 作業連結區
++ [HW1](https:// "Import data and plot diagrams")
++ [HW2]( "Analyze data and answer questions")
 ## 專題連結區
