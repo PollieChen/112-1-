@@ -9,6 +9,6 @@
 * 9/7 [Markdown](https://github.com/othree/markdown-syntax-zhtw/blob/master/ "Markdown Syntax") 
 
 ## 作業連結區
-+ [HW1]("HW1/HW1.ipynb")
++ [HW1]("[HW1/HW1.ipynb](https://github.com/PollieChen/112-1-Program-Language/blob/main/HW1/HW1.ipynb)https://github.com/PollieChen/112-1-Program-Language/blob/main/HW1/HW1.ipynb")
 + [HW2]( "Analyze data and answer questions")
 ## 專題連結區
