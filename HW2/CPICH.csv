@@ -1,7 +1,4 @@
-﻿,CPICH@ROC.a,CPICH@US.a,CPICH@JAP.a,CPICH@GER.a,CPICH@FRA.a,CPICH@UK.a,CPICH@ITA.a,CPICH@SKOR.a,CPICH@SING.a,CPICH@HK.a,CPICH@PRC.a
-,消費者物價指數年增率 - 中華民國 (%),消費者物價指數年增率 - 美國 (%),消費者物價指數年增率 - 日本 (%),消費者物價指數年增率 - 德國 (%),消費者物價指數年增率 - 法國 (%),消費者物價指數年增率 - 英國 (%),消費者物價指數年增率 - 義大利 (%),消費者物價指數年增率 - 南韓 (%),消費者物價指數年增率 - 新加坡 (%),消費者物價指數年增率 - 香港 (%),消費者物價指數年增率 - 中國大陸 (%)
-,Anual Changes in Consumer Price Index - R_O_C_ (%),Anual Changes in Consumer Price Index - U_S_A_ (%),Anual Changes in Consumer Price Index - Japan (%),Anual Changes in Consumer Price Index - Germany (%),Anual Changes in Consumer Price Index - France (%),Anual Changes in Consumer Price Index - U_K_ (%),Anual Changes in Consumer Price Index - Italy (%),Anual Changes in Consumer Price Index - Korea (South) (%),Anual Changes in Consumer Price Index - Singapore (%),Anual Changes in Consumer Price Index - H_K_ (%),Anual Changes in Consumer Price Index - P_R_C_ (%)
-DATE,%,%,%,%,%,%,%,%,%,%,%
+﻿DATE,TAIWAN,US,JAPAN,GERMANY,FRANCE,UK,ITALY,SOUTH KOREA,SINGAPORE,HK,CHINA
 2000,1.25,3.38,-0.68,1.44,1.68,1.18,2.54,2.26,1.36,-3.69,0.35
 2001,0,2.83,-0.74,1.98,1.63,1.53,2.79,4.07,1,-1.66,0.72
 2002,-0.2,1.59,-0.92,1.42,1.92,1.52,2.47,2.76,-0.39,-2.98,-0.73
